@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 
 	"github.com/bitrise-io/go-utils/pathutil"
-	"github.com/bitrise-io/go-xcode/plistutil"
-	"github.com/bitrise-io/go-xcode/profileutil"
+	"github.com/teamlapse/go-xcode/plistutil"
+	"github.com/teamlapse/go-xcode/profileutil"
 )
 
 // IosBaseApplication ...

@@ -9,7 +9,7 @@ import (
 	"github.com/bitrise-io/go-steputils/command/rubycommand"
 	"github.com/bitrise-io/go-utils/command"
 	"github.com/bitrise-io/go-utils/log"
-	"github.com/bitrise-io/go-xcode/xcodebuild"
+	"github.com/teamlapse/go-xcode/xcodebuild"
 	version "github.com/hashicorp/go-version"
 )
 

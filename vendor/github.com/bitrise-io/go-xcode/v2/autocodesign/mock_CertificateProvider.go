@@ -3,7 +3,7 @@
 package autocodesign
 
 import (
-	certificateutil "github.com/bitrise-io/go-xcode/certificateutil"
+	certificateutil "github.com/teamlapse/go-xcode/certificateutil"
 	mock "github.com/stretchr/testify/mock"
 )
 

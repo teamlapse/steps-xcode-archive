@@ -10,14 +10,14 @@ import (
 	"github.com/bitrise-io/go-utils/pathutil"
 	"github.com/bitrise-io/go-utils/sliceutil"
 	"github.com/bitrise-io/go-utils/v2/log"
-	"github.com/bitrise-io/go-xcode/certificateutil"
-	"github.com/bitrise-io/go-xcode/export"
-	"github.com/bitrise-io/go-xcode/exportoptions"
-	"github.com/bitrise-io/go-xcode/plistutil"
-	"github.com/bitrise-io/go-xcode/profileutil"
-	"github.com/bitrise-io/go-xcode/xcodeproject/serialized"
-	"github.com/bitrise-io/go-xcode/xcodeproject/xcodeproj"
-	"github.com/bitrise-io/go-xcode/xcodeproject/xcscheme"
+	"github.com/teamlapse/go-xcode/certificateutil"
+	"github.com/teamlapse/go-xcode/export"
+	"github.com/teamlapse/go-xcode/exportoptions"
+	"github.com/teamlapse/go-xcode/plistutil"
+	"github.com/teamlapse/go-xcode/profileutil"
+	"github.com/teamlapse/go-xcode/xcodeproject/serialized"
+	"github.com/teamlapse/go-xcode/xcodeproject/xcodeproj"
+	"github.com/teamlapse/go-xcode/xcodeproject/xcscheme"
 )
 
 // const for AppClipProductType and manualSigningStyle

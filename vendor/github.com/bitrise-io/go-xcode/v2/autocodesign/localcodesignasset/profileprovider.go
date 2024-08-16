@@ -1,6 +1,6 @@
 package localcodesignasset
 
-import "github.com/bitrise-io/go-xcode/profileutil"
+import "github.com/teamlapse/go-xcode/profileutil"
 
 // ProvisioningProfileProvider can list profile infos.
 type ProvisioningProfileProvider interface {

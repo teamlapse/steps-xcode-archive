@@ -3,11 +3,11 @@
 package autocodesign
 
 import (
-	appstoreconnect "github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
+	appstoreconnect "github.com/teamlapse/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
 
 	big "math/big"
 
-	devportalservice "github.com/bitrise-io/go-xcode/devportalservice"
+	devportalservice "github.com/teamlapse/go-xcode/devportalservice"
 
 	mock "github.com/stretchr/testify/mock"
 )

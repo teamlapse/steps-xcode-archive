@@ -9,9 +9,9 @@ import (
 
 	"github.com/bitrise-io/go-utils/log"
 	"github.com/bitrise-io/go-utils/pathutil"
-	"github.com/bitrise-io/go-xcode/xcodeproject/serialized"
-	"github.com/bitrise-io/go-xcode/xcodeproject/xcodeproj"
-	"github.com/bitrise-io/go-xcode/xcodeproject/xcscheme"
+	"github.com/teamlapse/go-xcode/xcodeproject/serialized"
+	"github.com/teamlapse/go-xcode/xcodeproject/xcodeproj"
+	"github.com/teamlapse/go-xcode/xcodeproject/xcscheme"
 	"golang.org/x/text/unicode/norm"
 	"howett.net/plist"
 )

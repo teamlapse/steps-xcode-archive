@@ -3,8 +3,8 @@ package xcarchive
 import (
 	"fmt"
 
-	"github.com/bitrise-io/go-xcode/v2/autocodesign"
-	"github.com/bitrise-io/go-xcode/xcarchive"
+	"github.com/teamlapse/go-xcode/v2/autocodesign"
+	"github.com/teamlapse/go-xcode/xcarchive"
 )
 
 // IosArchive ...

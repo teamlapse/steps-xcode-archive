@@ -9,9 +9,9 @@ import (
 
 	"github.com/bitrise-io/go-utils/progress"
 	"github.com/bitrise-io/go-utils/v2/log"
-	"github.com/bitrise-io/go-xcode/xcodebuild"
-	cache "github.com/bitrise-io/go-xcode/xcodecache"
-	"github.com/bitrise-io/go-xcode/xcpretty"
+	"github.com/teamlapse/go-xcode/xcodebuild"
+	cache "github.com/teamlapse/go-xcode/xcodecache"
+	"github.com/teamlapse/go-xcode/xcpretty"
 )
 
 func runArchiveCommandWithRetry(archiveCmd *xcodebuild.CommandBuilder, useXcpretty bool, swiftPackagesPath string, logger log.Logger) (string, error) {

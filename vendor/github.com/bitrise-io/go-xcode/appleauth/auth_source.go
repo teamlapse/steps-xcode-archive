@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bitrise-io/go-xcode/devportalservice"
+	"github.com/teamlapse/go-xcode/devportalservice"
 )
 
 // Source returns a specific kind (Apple ID/API Key) Apple authentication data from a specific source (Bitrise Apple Developer Connection, Step inputs)

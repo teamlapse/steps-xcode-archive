@@ -6,8 +6,8 @@ import (
 	"sort"
 
 	"github.com/bitrise-io/go-utils/log"
-	"github.com/bitrise-io/go-xcode/certificateutil"
-	"github.com/bitrise-io/go-xcode/profileutil"
+	"github.com/teamlapse/go-xcode/certificateutil"
+	"github.com/teamlapse/go-xcode/profileutil"
 	"github.com/ryanuber/go-glob"
 )
 

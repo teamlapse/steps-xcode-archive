@@ -11,8 +11,8 @@ import (
 
 	"github.com/bitrise-io/go-plist"
 	"github.com/bitrise-io/go-utils/log"
-	"github.com/bitrise-io/go-xcode/xcodeproject/serialized"
-	"github.com/bitrise-io/go-xcode/xcodeproject/xcscheme"
+	"github.com/teamlapse/go-xcode/xcodeproject/serialized"
+	"github.com/teamlapse/go-xcode/xcodeproject/xcscheme"
 )
 
 // Schemes returns the schemes considered by Xcode, when opening the given project.

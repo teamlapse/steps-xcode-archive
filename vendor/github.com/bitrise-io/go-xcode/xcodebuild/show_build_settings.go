@@ -11,7 +11,7 @@ import (
 	"github.com/bitrise-io/go-utils/command"
 	"github.com/bitrise-io/go-utils/errorutil"
 	"github.com/bitrise-io/go-utils/log"
-	"github.com/bitrise-io/go-xcode/xcodeproject/serialized"
+	"github.com/teamlapse/go-xcode/xcodeproject/serialized"
 )
 
 // ShowBuildSettingsCommandModel ...

@@ -7,9 +7,9 @@ import (
 	"fmt"
 
 	"github.com/bitrise-io/go-utils/log"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/time"
+	"github.com/teamlapse/go-xcode/v2/autocodesign"
+	"github.com/teamlapse/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
+	"github.com/teamlapse/go-xcode/v2/autocodesign/devportalclient/time"
 )
 
 const (

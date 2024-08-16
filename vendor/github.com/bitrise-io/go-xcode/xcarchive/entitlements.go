@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 
 	"github.com/bitrise-io/go-utils/command"
-	"github.com/bitrise-io/go-xcode/plistutil"
+	"github.com/teamlapse/go-xcode/plistutil"
 )
 
 func executableNameFromInfoPlist(infoPlist plistutil.PlistData) string {

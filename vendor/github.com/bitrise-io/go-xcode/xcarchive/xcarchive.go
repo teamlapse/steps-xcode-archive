@@ -7,8 +7,8 @@ import (
 	"github.com/bitrise-io/go-utils/log"
 	"github.com/bitrise-io/go-utils/pathutil"
 	"github.com/bitrise-io/go-utils/ziputil"
-	"github.com/bitrise-io/go-xcode/plistutil"
-	"github.com/bitrise-io/go-xcode/utility"
+	"github.com/teamlapse/go-xcode/plistutil"
+	"github.com/teamlapse/go-xcode/utility"
 )
 
 // IsMacOS try to find the Contents dir under the .app/.

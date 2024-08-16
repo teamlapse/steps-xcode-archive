@@ -8,9 +8,9 @@ import (
 
 	"github.com/bitrise-io/go-utils/fileutil"
 	"github.com/bitrise-io/go-utils/log"
-	"github.com/bitrise-io/go-xcode/xcodebuild"
-	"github.com/bitrise-io/go-xcode/xcodeproject/serialized"
-	"github.com/bitrise-io/go-xcode/xcodeproject/xcodeproj"
+	"github.com/teamlapse/go-xcode/xcodebuild"
+	"github.com/teamlapse/go-xcode/xcodeproject/serialized"
+	"github.com/teamlapse/go-xcode/xcodeproject/xcodeproj"
 )
 
 const (

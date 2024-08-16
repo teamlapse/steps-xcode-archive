@@ -10,11 +10,11 @@ import (
 	"math/big"
 
 	"github.com/bitrise-io/go-utils/log"
-	"github.com/bitrise-io/go-xcode/certificateutil"
-	"github.com/bitrise-io/go-xcode/devportalservice"
-	"github.com/bitrise-io/go-xcode/profileutil"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
-	"github.com/bitrise-io/go-xcode/xcodeproject/serialized"
+	"github.com/teamlapse/go-xcode/certificateutil"
+	"github.com/teamlapse/go-xcode/devportalservice"
+	"github.com/teamlapse/go-xcode/profileutil"
+	"github.com/teamlapse/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
+	"github.com/teamlapse/go-xcode/xcodeproject/serialized"
 )
 
 // Profile represents a provisioning profiles

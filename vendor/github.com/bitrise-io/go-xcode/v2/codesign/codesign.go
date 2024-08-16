@@ -5,13 +5,13 @@ import (
 	"time"
 
 	"github.com/bitrise-io/go-utils/v2/log"
-	"github.com/bitrise-io/go-xcode/appleauth"
-	"github.com/bitrise-io/go-xcode/certificateutil"
-	"github.com/bitrise-io/go-xcode/devportalservice"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/projectmanager"
+	"github.com/teamlapse/go-xcode/appleauth"
+	"github.com/teamlapse/go-xcode/certificateutil"
+	"github.com/teamlapse/go-xcode/devportalservice"
+	"github.com/teamlapse/go-xcode/v2/autocodesign"
+	"github.com/teamlapse/go-xcode/v2/autocodesign/devportalclient"
+	"github.com/teamlapse/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
+	"github.com/teamlapse/go-xcode/v2/autocodesign/projectmanager"
 )
 
 // AuthType ...

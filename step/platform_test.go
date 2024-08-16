@@ -5,9 +5,9 @@ import (
 
 	"github.com/bitrise-io/go-utils/v2/log"
 
-	"github.com/bitrise-io/go-xcode/xcodeproject/serialized"
-	"github.com/bitrise-io/go-xcode/xcodeproject/xcodeproj"
-	"github.com/bitrise-io/go-xcode/xcodeproject/xcscheme"
+	"github.com/teamlapse/go-xcode/xcodeproject/serialized"
+	"github.com/teamlapse/go-xcode/xcodeproject/xcodeproj"
+	"github.com/teamlapse/go-xcode/xcodeproject/xcscheme"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 )

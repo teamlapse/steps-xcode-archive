@@ -20,8 +20,8 @@ import (
 	"github.com/bitrise-io/go-steputils/v2/ruby"
 	"github.com/bitrise-io/go-utils/log"
 	"github.com/bitrise-io/go-utils/v2/command"
-	"github.com/bitrise-io/go-xcode/appleauth"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign"
+	"github.com/teamlapse/go-xcode/appleauth"
+	"github.com/teamlapse/go-xcode/v2/autocodesign"
 )
 
 //go:embed spaceship

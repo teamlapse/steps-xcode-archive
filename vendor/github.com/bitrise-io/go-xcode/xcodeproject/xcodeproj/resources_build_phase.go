@@ -6,7 +6,7 @@ import (
 
 	"github.com/bitrise-io/go-utils/sliceutil"
 
-	"github.com/bitrise-io/go-xcode/xcodeproject/serialized"
+	"github.com/teamlapse/go-xcode/xcodeproject/serialized"
 )
 
 // resourcesBuildPhase represents a PBXResourcesBuildPhase element

@@ -1,8 +1,8 @@
 package step
 
 import (
-	"github.com/bitrise-io/go-xcode/models"
-	"github.com/bitrise-io/go-xcode/utility"
+	"github.com/teamlapse/go-xcode/models"
+	"github.com/teamlapse/go-xcode/utility"
 )
 
 type XcodeVersionProvider interface {

@@ -3,7 +3,7 @@ package xcodeproj
 import (
 	"fmt"
 
-	"github.com/bitrise-io/go-xcode/xcodeproject/serialized"
+	"github.com/teamlapse/go-xcode/xcodeproject/serialized"
 )
 
 // ConfigurationList ...

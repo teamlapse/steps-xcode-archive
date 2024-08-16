@@ -4,8 +4,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bitrise-io/go-xcode/exportoptions"
-	"github.com/bitrise-io/go-xcode/plistutil"
+	"github.com/teamlapse/go-xcode/exportoptions"
+	"github.com/teamlapse/go-xcode/plistutil"
 	"howett.net/plist"
 )
 

@@ -4,8 +4,8 @@
 package appstoreconnectclient
 
 import (
-	"github.com/bitrise-io/go-xcode/v2/autocodesign"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
+	"github.com/teamlapse/go-xcode/v2/autocodesign"
+	"github.com/teamlapse/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
 )
 
 // Client ...

@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/bitrise-io/go-utils/log"
-	"github.com/bitrise-io/go-xcode/devportalservice"
+	"github.com/teamlapse/go-xcode/devportalservice"
 )
 
 // Credentials contains either Apple ID or APIKey auth info

@@ -6,8 +6,8 @@ import (
 
 	"github.com/bitrise-io/go-utils/log"
 	"github.com/bitrise-io/go-utils/sliceutil"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
-	"github.com/bitrise-io/go-xcode/xcodeproject/serialized"
+	"github.com/teamlapse/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
+	"github.com/teamlapse/go-xcode/xcodeproject/serialized"
 )
 
 // ICloudIdentifiersEntitlementKey ...

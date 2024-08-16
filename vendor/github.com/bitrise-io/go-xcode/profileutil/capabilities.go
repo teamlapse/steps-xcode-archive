@@ -2,7 +2,7 @@ package profileutil
 
 import (
 	"github.com/bitrise-io/go-utils/log"
-	"github.com/bitrise-io/go-xcode/plistutil"
+	"github.com/teamlapse/go-xcode/plistutil"
 )
 
 // MatchTargetAndProfileEntitlements ...
