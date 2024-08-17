@@ -11,7 +11,7 @@ import (
 	"github.com/bitrise-io/go-utils/v2/fileutil"
 	"github.com/bitrise-io/go-utils/v2/log"
 	"github.com/bitrise-io/go-utils/v2/pathutil"
-	"github.com/bitrise-steplib/steps-xcode-archive/step"
+	"github.com/teamlapse/steps-xcode-archive/step"
 )
 
 func main() {

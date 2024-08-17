@@ -1,4 +1,4 @@
-module github.com/bitrise-steplib/steps-xcode-archive
+module github.com/teamlapse/steps-xcode-archive
 
 go 1.20
 

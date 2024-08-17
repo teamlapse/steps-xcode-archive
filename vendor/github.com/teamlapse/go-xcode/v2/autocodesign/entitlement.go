@@ -99,7 +99,7 @@ func (e Entitlement) Capability() (*appstoreconnect.BundleIDCapability, error) {
 	}
 
 	if capName, contains := capabilitiesError[capType]; contains {
-		return nil, fmt.Errorf("step does not support creating an application identifier using the \"%s\" capability, please add your Application Identifier manually using the Apple Developer Portal", capName)
+		return nil, nil//fmt.Errorf("step does not support creating an application identifier using the \"%s\" capability, please add your Application Identifier manually using the Apple Developer Portal", capName)
 	}
 
 	return &appstoreconnect.BundleIDCapability{
